@@ -19,6 +19,7 @@ Data Ingestion
 <br>Initial Data Load
 - Connects to sql server via engine and creates database
 - Uploads database alongside database schema and lookup tables
+  
 <br>Continual Data Load (Automatic)
 - Connects to sql server via engine and retrieves database metadata
 - Ensures format of new data matches database metadata
