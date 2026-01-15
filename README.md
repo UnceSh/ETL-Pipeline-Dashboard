@@ -16,11 +16,11 @@ Data Ingestion
 - Generates data schema to store as metadata within database
 - Creates lookup tables to optimize storage via foreign keys
   
-<br>Initial Data Load
+<br>Initial Data Load (First Load)
 - Connects to sql server via engine and creates database
 - Uploads database alongside database schema and lookup tables
   
-<br>Continual Data Load
+<br>Continual Data Load (Daily Load)
 - Connects to sql server via engine and retrieves database metadata
 - Ensures format of new data matches database metadata
 - Loads data into database via Upsert statement
@@ -34,5 +34,5 @@ The interactive pet dashboard showcases data on pets such as:
 -  Most common pet breeds
 -  Age of pets
 -  Location of pets
-
+![Alt text](Dashboard.jpg)
 <br> Additionally, the interactive pet dashboard allows for data filtering based on pet species.
