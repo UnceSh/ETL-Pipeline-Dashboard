@@ -9,7 +9,7 @@ Data Ingestion
 - Automatically searches for file updates on a daily basis
 - Stores .json files as zipped files on personal server to save storage
 
-<brData Cleaning
+<br>Data Cleaning
 - Processes zipped .json files into Pandas Dataframe
 - Performs row-wise removal of invalid entries
 - Converts every feature into proper data types, optimizing storage space 
