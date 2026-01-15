@@ -20,7 +20,7 @@ Data Ingestion
 - Connects to sql server via engine and creates database
 - Uploads database alongside database schema and lookup tables
   
-<br>Continual Data Load (Automatic)
+<br>Continual Data Load
 - Connects to sql server via engine and retrieves database metadata
 - Ensures format of new data matches database metadata
 - Loads data into database via Upsert statement
@@ -34,4 +34,5 @@ The interactive pet dashboard showcases data on pets such as:
 -  Most common pet breeds
 -  Age of pets
 -  Location of pets
+
 <br> Additionally, the interactive pet dashboard allows for data filtering based on pet species.
