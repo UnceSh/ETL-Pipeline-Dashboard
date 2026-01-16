@@ -36,3 +36,4 @@ The interactive pet dashboard showcases data on pets such as:
 -  Location of pets
 ![Alt text](Dashboard.jpg)
 <br> Additionally, the interactive pet dashboard allows for data filtering based on pet species.
+![Alt text](DogDashboard.jpg)
