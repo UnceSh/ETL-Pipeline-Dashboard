@@ -35,5 +35,5 @@ The interactive pet dashboard showcases data on pets such as:
 -  Age of pets
 -  Location of pets
 ![Alt text](Dashboard.jpg)
-<br> Additionally, the interactive pet dashboard allows for data filtering based on pet species.
-![Alt text](DogDashboard.jpg)
+<br> <br> Additionally, the interactive pet dashboard allows for data filtering based on pet species.
+![Alt text](DogDashboard.JPG)
